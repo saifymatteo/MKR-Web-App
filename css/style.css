@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+#main-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 30%;
+}
+.player{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
